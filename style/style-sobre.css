@@ -29,13 +29,10 @@
     background-color: #f1f5f9;
 }
 
-secao{
+.secao{
     margin: 25px 0;
     padding: 24px;
-
     background-color: white;
-
     border: 1px solid #dbe2ea;
     border-radius: 8px;
-
 }

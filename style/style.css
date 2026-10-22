@@ -35,6 +35,10 @@ a{
     color: #6877a1
 }
 
+code, pre{
+    font-family: Consolas, "Courier New", monospace;
+}
+
 .container{
     width: 90%;
     max-width: 1000px;
@@ -92,7 +96,6 @@ a{
 
 .secao{
     padding: 72px;
-
 }
 
 .titulo-secao{
