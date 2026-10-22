@@ -104,7 +104,7 @@ a{
 
 .grade-cards{
     padding: 24px;
-    background-color: #c6447e;
+    background-color: pink;
     border: 1px solid #d8e0e8;
     border-radius: 10px;
     box-shadow: 0 10px 30px rgba(76, 2, 37, 0.8);
@@ -126,7 +126,7 @@ a{
 
 .lista-tecnologias li{
     padding: 10px 14px;
-    background-color: #c6447e;
+    background-color: pink;
     display: inline;
     border: 1px solid #d8e0e8;
     border-radius: 999px;
